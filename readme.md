@@ -1,4 +1,4 @@
-# I am praciticing ORS and Robotics
+# I am praciticing ROS and Robotics
 with:
 * Ros melodic
 * Gazebo
